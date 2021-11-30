@@ -1,4 +1,4 @@
-# DsLearn :hourglass_flowing_sand:
+# DsLearn
 Plataforma de ensino. 
 
 # Tecnologias utilizadas
