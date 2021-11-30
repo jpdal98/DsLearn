@@ -1,5 +1,5 @@
 # DsLearn
-Plataforma de ensino. 
+Sistema baseado em uma plataforma de ensino. Esse Sistema foi um trabalho desenvolvido durante o Bootcamp de Spring React da DevSuperior. 
 
 # Tecnologias utilizadas
 ## Back end
