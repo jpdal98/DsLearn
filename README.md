@@ -22,4 +22,4 @@ Uma tarefa pode ter um peso, uma data de entrega, um número de questões e a qu
 
 ## Padrões utilizados
 - Padrão arquitetural: REST
-- Padrões estruturais: DTO
+- Padrões estrutural: DTO
