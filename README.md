@@ -13,10 +13,7 @@ Cada nova turma do curso corresponde a uma oferta ou edição deste curso, que p
 Os usuários (alunos e professores) devem receber notificações.
 
 Com relação ao fórum de perguntas e respostas, este consiste em uma coleção de tópicos (com um título e a descrição da pergunta), e cada tópico pode ter várias respostas. Os requisitos gerais do fórum são:
-- Listar tópicos, com as seguintes opções de filtro:
-Por recurso/seção/aula
-Por texto (título e/ou corpo do tópico)
-Perguntas feitas apenas pelo usuário logado
+- Listar tópicos, com as seguintes opções de filtro: Por recurso/seção/aula, por texto (título e/ou corpo do tópico) e por perguntas feitas apenas pelo usuário logado
 - Criar tópico: título, corpo
 - Responder tópico
 - Marcar/desmarcar upvote em pergunta (não pode ser o autor)
