@@ -20,7 +20,7 @@ Com relação ao fórum de perguntas e respostas, este consiste em uma coleção
 - Marcar/desmarcar upvote em resposta (não pode ser o autor)
 - Marcar/desmarcar melhor resposta (somente autor do tópico e instrutor)
 
-#Modelo relacional da aplicação
+# Modelo relacional da aplicação
 ![modelo-conceitual-com-forum](https://user-images.githubusercontent.com/37542212/144631319-ea19afc5-d085-45e5-88df-45580a715c8d.png)
 
 # Tecnologias utilizadas
