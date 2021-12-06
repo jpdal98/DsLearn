@@ -1,5 +1,5 @@
 # DsLearn
-Sistema baseado em uma plataforma de ensino. Esse Sistema foi um trabalho desenvolvido no Bootcamp de Spring React da DevSuperior. 
+Sistema baseado em uma plataforma de ensino. Esse Sistema foi um trabalho desenvolvido no Bootcamp de Spring da DevSuperior. 
 
 # Descrição
 O sistema consiste em uma plataforma de ensino que mantém informações de cursos, suas turmas e alunos, bem como um fórum para perguntas e respostas sobre os conteúdos do curso. Os atores do sistema podem ser alunos e professores. Há também usuários administradores, que são os únicos autorizados a cadastrar cursos e turmas.
