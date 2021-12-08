@@ -27,7 +27,7 @@ Com relação ao fórum de perguntas e respostas, este consiste em uma coleção
 ## Back end
 - Java
 - Spring Boot
-- Jpa / Hibernate
+- Spring Data / Jpa e Hibernate
 - Spring Security / OAuth 2.0 e Token JWT
 - Maven
 
