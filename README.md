@@ -24,16 +24,16 @@ Com relação ao fórum de perguntas e respostas, este consiste em uma coleção
 ![modelo-conceitual-com-forum](https://user-images.githubusercontent.com/37542212/144631319-ea19afc5-d085-45e5-88df-45580a715c8d.png)
 
 # Tecnologias utilizadas
-## Back end
+## Back end:
 - Java
 - Spring Boot
 - Spring Data / Jpa e Hibernate
 - Spring Security / OAuth 2.0 e Token JWT
 - Maven
 
-## Implantação em desenvolvimento
+## Implantação em desenvolvimento:
 - Banco de Dados: H2
 
-## Padrões utilizados
+## Padrões utilizados:
 - Padrão arquitetural: REST
 - Padrões estrutural: DTO
